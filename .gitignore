@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables (contains sensitive credentials - NEVER commit this)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS files
+.DS_Store
+Thumbs.db
